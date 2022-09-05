@@ -5,4 +5,4 @@ En este repositorio encontrarás además de partde de los datos cada una de las 
 En primer lugar en el archivo denominado Genericasd_Saber pro_2012_2020 encontrarás el diccionario de cada una de las variables que contiene la data cruda para ayudar a su mejor comprensión y análisis.
 Posteriormente encontraras un Zip con una muestra en CSV de 15 mil registros y con las variables de analisis ya seleccionadas. La data cruda consta de casi 300 mil registros y no es posible cargarlas al repositorio dadas las restricciones de espacio de Github.
 Adicionalmente se presenta un documento de Excel denominado Analisis de campos en el cual se explica cuales son las variables seleccionadas y el criterio utilizado.
-
+Tambien se inlcluye una presentacion llamada Estrategia de desarrollo proyecto que presenta de manera general las etapas del proyecto yla estrategia a seguir.
